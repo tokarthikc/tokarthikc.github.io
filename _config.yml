@@ -1,5 +1,5 @@
 # Site settings
-title: "Andrei Dobra"
+title: "Karthik Chandrasekaran"
 description: "My resume created in Jekyll"
 
 # Build settings
@@ -10,9 +10,9 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Andrei Dobra"
-resume_title:                   "QA Automation Engineer"
-resume_contact_email:           "andrey.dobra@gmail.com"
+resume_name:                    "Karthik Chandrasekran"
+resume_title:                   "Manager/Master Software Engineer - Cloud DevOps / Identity / Full Stack Engineer"
+resume_contact_email:           "karthik.chandrasekaran@gmail.com"
 resume_header_contact_info:     ""
 resume_header_intro:            "<p>I am a creative person and love exploring systems and applications. I am eager to talk and work with others, and take great pleasure in sharing knowledge with colleagues. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
 
@@ -46,6 +46,7 @@ resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
+
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
